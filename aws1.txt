@@ -1,4 +1,3 @@
 line one. this content is from the aws1.txt
 line two.
-line three
-line four
+line three in aws1.txt from development branch
